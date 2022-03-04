@@ -112,7 +112,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var date_fns_locale_pt_BR__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! date-fns/locale/pt-BR */ "date-fns/locale/pt-BR");
 /* harmony import */ var date_fns_locale_pt_BR__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(date_fns_locale_pt_BR__WEBPACK_IMPORTED_MODULE_3__);
 
-var _jsxFileName = "D:\\MEUS PROJETOS\\Podcast\\src\\components\\Header\\index.tsx";
+var _jsxFileName = "C:\\PROJETOS GITHUB\\Podcast\\src\\components\\Header\\index.tsx";
 
 
 
@@ -181,7 +181,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _styles_module_scss__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./styles.module.scss */ "./src/components/Player/styles.module.scss");
 /* harmony import */ var _styles_module_scss__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_styles_module_scss__WEBPACK_IMPORTED_MODULE_1__);
 
-var _jsxFileName = "D:\\MEUS PROJETOS\\Podcast\\src\\components\\Player\\index.tsx";
+var _jsxFileName = "C:\\PROJETOS GITHUB\\Podcast\\src\\components\\Player\\index.tsx";
 
 function Player() {
   return /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("div", {
@@ -370,7 +370,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _styles_app_module_scss__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_styles_app_module_scss__WEBPACK_IMPORTED_MODULE_3__);
 /* harmony import */ var _components_Player__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../components/Player */ "./src/components/Player/index.tsx");
 
-var _jsxFileName = "D:\\MEUS PROJETOS\\Podcast\\src\\pages\\_app.tsx";
+var _jsxFileName = "C:\\PROJETOS GITHUB\\Podcast\\src\\pages\\_app.tsx";
 
 function ownKeys(object, enumerableOnly) { var keys = Object.keys(object); if (Object.getOwnPropertySymbols) { var symbols = Object.getOwnPropertySymbols(object); if (enumerableOnly) symbols = symbols.filter(function (sym) { return Object.getOwnPropertyDescriptor(object, sym).enumerable; }); keys.push.apply(keys, symbols); } return keys; }
 
